@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res" >
+            <file
+                name="sym_keyboard_language_switch"
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_language_switch.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="sym_keyboard_return"
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_return.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="sym_keyboard_space"
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_space.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="sym_keyboard_search"
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_search.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="sym_keyboard_delete"
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_delete.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_en_us"
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/drawable-hdpi/icon_en_us.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="sym_keyboard_shift"
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_shift.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_en_gb"
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/drawable-hdpi/icon_en_gb.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="sym_keyboard_done"
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_done.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/values-v21/styles.xml"
+                qualifiers="v21" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Material.Light" >
+                </style>
+            </file>
+            <file
+                name="ic_launcher"
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="candidate_vertical_padding" >6sp
+                </dimen>
+                <dimen name="key_height" >50dip
+                </dimen>
+                <dimen name="candidate_font_height" >16sp
+                </dimen>
+            </file>
+            <file
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="word_separators" >\u0020.,;:!?\n()[]*&amp;@{}/&lt;>_+=|"
+                </string>
+                <string name="label_send_key" >Send
+                </string>
+                <string name="language_selection_title" >Input languages
+                </string>
+                <string name="label_next_key" >Next
+                </string>
+                <string name="label_go_key" >Go
+                </string>
+                <string name="general_category" >General
+                </string>
+                <string name="settings_name" >Burglish Keyboard Settings
+                </string>
+                <string name="ime_name" >Burglish Keyboard
+                </string>
+                <string name="label_subtype_en_GB" >English (GB)
+                </string>
+                <string name="select_language" >Select input languages
+                </string>
+                <string name="label_subtype_generic" >%s
+                </string>
+            </file>
+            <file
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/values/colors.xml"
+                qualifiers="" >
+                <color name="candidate_background" >#bbffffff
+                </color>
+                <color name="candidate_other" >#ff808080
+                </color>
+                <color name="candidate_recommended" >#FFE35900
+                </color>
+                <color name="candidate_normal" >#FF000000
+                </color>
+            </file>
+            <file
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- Customize your theme here. -->
+                </style>
+            </file>
+            <file
+                name="input"
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/layout/input.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="sym_keyboard_language_switch"
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/drawable-mdpi/sym_keyboard_language_switch.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="sym_keyboard_return"
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/drawable-mdpi/sym_keyboard_return.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="sym_keyboard_space"
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/drawable-mdpi/sym_keyboard_space.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="sym_keyboard_search"
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/drawable-mdpi/sym_keyboard_search.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="sym_keyboard_delete"
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/drawable-mdpi/sym_keyboard_delete.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_en_us"
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/drawable-mdpi/icon_en_us.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="sym_keyboard_shift"
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/drawable-mdpi/sym_keyboard_shift.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_en_gb"
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/drawable-mdpi/icon_en_gb.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="sym_keyboard_done"
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/drawable-mdpi/sym_keyboard_done.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="qwerty"
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/xml/qwerty.xml"
+                qualifiers=""
+                type="xml" />
+            <file
+                name="ime_preferences"
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/xml/ime_preferences.xml"
+                qualifiers=""
+                type="xml" />
+            <file
+                name="symbols"
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/xml/symbols.xml"
+                qualifiers=""
+                type="xml" />
+            <file
+                name="method"
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/xml/method.xml"
+                qualifiers=""
+                type="xml" />
+            <file
+                name="symbols_shift"
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/xml/symbols_shift.xml"
+                qualifiers=""
+                type="xml" />
+            <file
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/values-land/dimens.xml"
+                qualifiers="land" >
+                <dimen name="key_height" >46dip
+                </dimen>
+            </file>
+            <file
+                name="transliteration"
+                path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/raw/transliteration"
+                qualifiers=""
+                type="raw" />
+        </source>
+        <source path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/build/generated/res/rs/debug" />
+        <source path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/debug/res" />
+    </dataSet>
+
+</merger>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="candidate_background">#bbffffff</color>
+    <color name="candidate_normal">#FF000000</color>
+    <color name="candidate_other">#ff808080</color>
+    <color name="candidate_recommended">#FFE35900</color>
+    <!-- From: file:/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="candidate_font_height">16sp</dimen>
+    <dimen name="candidate_vertical_padding">6sp</dimen>
+    <dimen name="key_height">50dip</dimen>
+    <!-- From: file:/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="general_category">General</string>
+    <string name="ime_name">Burglish Keyboard</string>
+    <string name="label_go_key">Go</string>
+    <string name="label_next_key">Next</string>
+    <string name="label_send_key">Send</string>
+    <string name="label_subtype_en_GB">English (GB)</string>
+    <string name="label_subtype_generic">%s</string>
+    <string name="language_selection_title">Input languages</string>
+    <string name="select_language">Select input languages</string>
+    <string name="settings_name">Burglish Keyboard Settings</string>
+    <string name="word_separators">\u0020.,;:!?\n()[]*&amp;@{}/&lt;>_+=|"</string>
+    <!-- From: file:/home/trhura/AndroidstudioProjects/BurglishKeyboard/app/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>
